@@ -1,0 +1,3 @@
+nomeTeste;e-mail;password;nomeUsuario;resultado
+loginValido;jorgetest@QA.com;jorge;Jorge Alves;positivo
+loginInvalido;jorgetest@QA.com;teste3456;Jorge Alves;negativo
